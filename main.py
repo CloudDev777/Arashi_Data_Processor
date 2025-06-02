@@ -1,5 +1,4 @@
-# Authors: Chris Colomb, hellokurisu.io@gmail.com
-#          Maika Rabenitas, maikacoleen1205@gmail.com
+# Authors: bluespider7077@gmail.com
 
 import csv
 import ctypes
